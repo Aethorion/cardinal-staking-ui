@@ -1,5 +1,5 @@
 
-export default Home
+
 import { Footer } from 'common/Footer'
 import { FooterSlim } from 'common/FooterSlim'
 import { Header } from 'common/Header'
